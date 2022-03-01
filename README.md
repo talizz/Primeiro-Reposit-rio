@@ -1,2 +1,2 @@
-# Primeiro-Reposit-rio
+# Primeiro-Repositorio
 Desafio de projeto - Primeiro Repositório - DIO
